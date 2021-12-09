@@ -1,29 +1,9 @@
 {
   "feedback": [
     {
-      "id": 1,
-      "rating": 10,
-      "text": "This feedback item 1, is coming from backend"
-    },
-    {
-      "id": 2,
-      "rating": 10,
-      "text": "This feedback item 2, is coming from backend"
-    },
-    {
-      "id": 3,
-      "rating": 8,
-      "text": "This feedback item 3, is coming from backend"
-    },
-    {
-      "text": "testestesttexst",
-      "rating": 6,
-      "id": 7
-    },
-    {
-      "text": "new edited once upon  a time",
-      "rating": 7,
-      "id": 8
+      "text": "testing number one two three",
+      "rating": 5,
+      "id": 1
     }
   ]
 }
